@@ -1,5 +1,5 @@
 export default class HolbertonClass {
-  constrcutor(size, location) {
+  constructor(size, location) {
     this._size = size;
     this._location = location;
   }
